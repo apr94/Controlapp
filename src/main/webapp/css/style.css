@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+}
+
+body {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+html {
+    width: 100%;
+}
+
+#container {
+    width: 100%;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+#controls{
+    width: 100%;
+}
+
+#Controls {
+    padding-top: 10px;
+    text-align: center;
+}
+
+#VideoScreen{
+    overflow: hidden;
+} 
